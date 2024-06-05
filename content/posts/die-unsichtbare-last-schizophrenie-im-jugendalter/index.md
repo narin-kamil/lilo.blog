@@ -7,19 +7,16 @@ tags = ["Deutsch", "Reportage"]
 image = "titelbild.webp"
 footnotes = " *Um die Privatsphäre des Interviewpartners Luca Fischer zu schützen, wird sein Name in dieser Reportage anonymisiert bleiben.*\n\n***Quellen:***\\\nEnableMe: Schizophrenie: [Dinge sehen, die nicht da sind ](https://www.enableme.ch/de/behinderungen/schizophrenie-6450)(abgerufen am 6.5.2024)\n\nDie Techniker: [Was ist Schizophrenie?](https://www.tk.de/techniker/gesundheit-und-medizin/behandlungen-und-medizin/psychische-gesundheit/weitere-psychische-erkrankungen/was-ist-schizophrenie-2017900?tkcm=aaus) (zuletzt abgerufen am 6.5.2024)\n\nReasearchGate: [Milieutherapie und Ansätze aus der Soteria – Wie gestalte ich das Umfeld therapeutisch?](https://www.researchgate.net/publication/332297450*Milieutherapie_und_Ansatze_aus_der_Soteria*-_Wie_gestalte_ich_das_Umfeld_therapeutisch) (zuletzt abgerufen am 6.5.2024)\n\nTheodor Wenzel Werk E.V.: [Schizophrenie: Anzeichen, Ausprägungen, Therapie](https://tww-berlin.de/kliniken/krankheitsbilder/schizophrenie/) (zuletzt abgerufen am 7.5.2024)\n\nStudysmarter: [Schizophrenie Symptome](https://www.studysmarter.de/schule/biologie/verhaltensbiologie/schizophrenie-symptome/) (zuletzt abgerufen am 6.5.2024)\n\nUPD Universitäre Psychiatrische Dienste Bern: [Zentrum für Schizophrenie und Psychose](https://www.upd.ch/de/angebot/erwachsenenpsychiatrie/zentrum-schizophrenie-und-psychose.php) (zuletzt abgerufen am 5.5.2024)\n\nYoutube: [24. Schizophrenie](https://youtu.be/nEnklxGAmak?si=En-CByyPsgd0QfOt) (zuletzt abgerufen am 12.3.2024)\n\nStudysmarter.de:[ Schizophrenie Symptome, 2024](https://www.studysmarter.de/schule/biologie/verhaltensbiologie/schizophrenie-symptome/) (abgerufen am 6.5.2024)\n\nigsbern: [Stationäres Angebot](https://www.igsbern.ch/de/soteria/stationaeres-angebot-3.html) (abgerufen am 6.5.2024)"
 +++
-**{{<lead>}} In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?** 
+**{{<lead>}} In einer Welt, die von scheinbarer Normalität geprägt ist, kämpfen viele junge Menschen hinter den Kulissen mit dieser komplexen psychischen Störung. Doch was bedeutet es wirklich, mit Schizophrenie im Jugendalter zu leben? Und wie können wir als Gesellschaft dazu beitragen, diese Last zu lindern und jungen Betroffenen ein unterstützendes Umfeld zu bieten?** **{{</lead>}}**
 
 Tsering Tschango, Narin Kamil Saih
 
->
 > *«Du bist eine von acht Personen, die auserwählt sind. Ihr alle habt besondere Fähigkeiten, weshalb wir in der Arktis einige Tests mit euch durchführen werden».* 
 
 Luca Fischer schüttelt den Kopf. Schon wieder diese Stimmen. Er hasste es, wenn ihm immer «abnormale» und unangenehme Stimmen von einem normalen Alltag abhielten. Was glauben wohl die Leute in seinem Umfeld nur, wenn er etwas vor sich hinmurmeln muss? 
     Mit einem leisen, unbestimmten Flüstern, das sich langsam in das Leben eines Jugendlichen schleicht, beginnt es. Anfangs kaum mehr als ein Schatten im peripheren Blickfeld, wuchsen Lucas Symptome mit der Zeit zu unüberhörbaren Stimmen heran. 
     Luca Fischer lebt seit seiner Kindheit mit visuellen Halluzinationen. Im frühen Jugendalter zwischen 12 und 13 Jahren schlossen sich akustische Einbildungen als weiteres Symptom an. Das Science-Fiction Buch “Maze Runner“ war der endgültige Auslöser dafür. 
     Luca Fischer, der seit seiner Kindheit mit diesem Spektrum von Symptomen lebt, führt uns durch die Herausforderungen, denen er sich tagtäglich seit dem Jugendalter stellen muss. 
-
-
 
 #### Entwirrung der Schizophrenie
 
@@ -30,14 +27,12 @@ Die Schizophrenie ist eine psychische Krankheit, welche die Denkfähigkeit und d
 
 ![Daniel Eichert, Stv. Leiter der Soteria](daniel.png)
 
-
-
 ### Die Symptomatik im Blick
 
 > *“Grundsätzlich lässt sich sagen, dass das Krankheitsbild der Schizophrenie ein Verschwimmen der Grenzen ist, ob die eigenen oder die der anderen.“* 
 
 Dies erläuterte uns Herr Eichert. Er arbeitet täglich mit Betroffenen und ermöglicht ihnen mithilfe der Konfrontationstherapie und der Milieutherapie, welche auf einen Wechsel im Umfeld der Betroffenen ruht,  einen neuen Einstieg in die Realität und ihr Leben. 
-In einem Interview hat er uns viele ungenannte Symptome aufgezeigt. \
+In einem Interview hat er uns viele ungenannte Symptome aufgezeigt.
 
 “\[Das ist] oftmals das Gefühl, dass das Ich-Bewusstsein nicht vorhanden ist. Man löst sich quasi auf.“, erklärt er. Dies sei auf eine Reizüberflutung zurückzuführen, welche persönliche Beziehungsideen verursache. Das Ich-Bewusstsein könne keine Reize mehr verarbeiten. Das menschliche Gehirn versuche nichtsdestotrotz, logische Verbindungen zu knüpfen, welches eine pathologische Realitätswahrnehmung verursache.
      Beziehungsideen würden zusätzliche Symptome und Zustände verursachen, die den Betroffenen in eine psychotische Episode führen. Wenn diese Auslöser nicht identifiziert und gemieden werden, gerät man wiederholt in diesen psychotischen Zustand. Ab dann wird von einer Schizophrenie gesprochen und die Patienten werden in eine Klinik wie die Soteria weitergeleitet, in welcher den Betroffenen beigebracht wird, die Auslöser zu vermeiden und, wenn möglich, ohne Medikamente mit ihnen umzugehen. 
@@ -51,16 +46,12 @@ Sogenannte “Trigger“ können eine Vielfalt von Symptomen auslösen. Darunter
 
 ##### Die Geschwister der Schizophrenie
 
-
 Eine Schizophrenie professionell zu erkennen kann ziemlich herausfordernd sein aufgrund ihrer vielfältigen Erscheinungsformen. Oft ist eine Verwechslung mit einer anderen psychischen Störung der Fall. Sie teilen sich psychotische Symptome oder ähneln sich charakteristisch im Krankheitsverlauf. Mögliche Verwechslungen herrschen mit: der Dissoziativen Identitätsstörung (DIS), der Demenz oder dem Autismus.
-
 
 Die DIS ist eine psychische Störung, bei der zwei oder mehrere Identitäten die Kontrolle innerhalb einer Person übernehmen. Das Wort «Schizophrenie» aus dem Griechischen bedeutet «gespaltener Geist oder Bewusstsein». Dies wird fälschlicherweise für eine gespaltene Persönlichkeit gehalten. 
 Ein merklicher Unterschied liegt darin, dass sich durch eine Schizophrenie nicht der Charakter eines Menschen verändert, sondern seine Wahrnehmung und Verhalten.
 
 {{</box>}}
-
-
 
 ### Das persönliche Akutspital der Soteria
 
@@ -73,20 +64,17 @@ Zur Abschwächung der akuten Phase stellt man den Bewohnern kleine alltägliche 
 
 ![Esszimmer in der Soteria](esszimmer.jpg)
 
-
-
 ### Ursachen der Schizophrenie
 
 Das Gebiet der Schizophrenie ist noch lange nicht gänzlich erforscht und einiges ist noch unbekannt. Viele Psychologen oder Ärzte beziehen sich auf ein psychosoziales Modell, darunter auch 	Daniel Eichert. Das Modell sagt aus, dass im Zusammenhang mit mehreren Faktoren, die unter gemeinsamen Zusammenspiel eine erhöhte Möglichkeit einer schizophrenen Reaktion auslösen können. Laut Daniel Eichert können Symptome auf eine genetische Vererbung als biologische Faktoren, Stress und traumatische negative Erlebnisse die als Psychosoziale Faktoren bezeichnet werden oder Drogenkonsum, vor Allem Cannabiskonsum, zurückführen.                                                    Jedoch ist die Ursache der Entstehung einer Schizophrenie nicht immer bekannt. 
-    Wenn ein Elternteil schon eine psychische Erkrankung hat, ist eine mögliche Erkrankung des Kindes grösser als bei einem nichtbetroffenen Familienstamm. Bei etwa zwölf von hundert Kindern deren Eltern an Schizophrenie betroffen sind, treten im späteren Alter tatsächlich Schizophrenie auf.
+
+\    Wenn ein Elternteil schon eine psychische Erkrankung hat, ist eine mögliche Erkrankung des Kindes grösser als bei einem nichtbetroffenen Familienstamm. Bei etwa zwölf von hundert Kindern deren Eltern an Schizophrenie betroffen sind, treten im späteren Alter tatsächlich Schizophrenie auf.
 
 ### Psychosoziale Faktoren
 
 Die persönliche Lebensgeschichte und Erfahrungen sind alles potenzielle Ereignisse von Bedeutung, die zu einem Trauma führen können und damit eine prägende Rolle für die Entstehung einer Schizophrenie spielen. Daniel Eichert weist auf eine erhöhte «Verletzlichkeit» durch die kombinierten Faktoren aus. Er definiert den Begriff dadurch wie bestimmte traumatische Erlebnisse in der Vergangenheit eines Menschen als Faktoren zu einer grösseren «Verletzlichkeit» der Bildung von schizophrenen Symptomen führen können. Beobachtbar ist die erhöhte Verletzlichkeit in der Kindheit oder Jugendalter mit auffälligem Verhalten. Fachpersonen der Soteria schätzen die Verletzlichkeit und zusätzliche Stressfaktoren für das Auftreten psychotischer Krisen in etwa 1% der schizophrener Bevölkerung.
 
 ![Geschlechts- und Altersverteilung des psychischen Krankheitsausbruchs ](schizo-grafik.jpg)
-
-
 
 ### Krankheitsablauf
 
@@ -95,17 +83,13 @@ Grundsätzlich wird die schizophrene Therapie in drei Säulen unterteilt. Eine m
 Bei einer	psychotherapeutischen Behandlung, welche die soziale Kompetenz trainiert, ist die Stabilisierung und Stärkung der betroffenen Person das Ziel.\
      Therapeuten und Betreuer helfen den Patienten ein möglichst selbstständiges Leben zu führen indem sie sie motivieren neue Kontakte zu knüpfen.
 
-
-
 ### Die Schizophrenie unter der Lupe – Ein Interview mit Luca Fischer
 
 Für einen Einblick in das Leben einer jugendlichen Schizophrenie-betroffenen Person, führten wir ein Interview mit dem Teenager Luca Fischer, der uns genaueres erzählte, über seinen persönlichen Krankheitsverlauf. 
-Lebendige Clownsgestalten, Erscheinungen von Menschen kleiner Grösse und Tiere in der Alltagsumgebung: Halluzinationen kennzeichnen und begleiten Schizophrene Menschen regelmässig in ihrem Leben. \
-    "Das Buch "Maze Runner", das ich damals gelesen habe, beeinflusste und verstärkte meine Symptome stark.“ erzählt der Teenager.  Die Stimmen die Luca  hörte, unterschieden sich in ihrer Bedrohlichkeit. Tatsächlich konnten sie beunruhigender werden und den Träger zu eigenwilligen Handlungen anstiften. 
-    Obwohl Luca’s Symptome sich in seinen früheren Jahren äusserten, wurden sie bei therapeutischen Besuchen vernachlässigt und nicht ernstgenommen. Man sah die Symptome als die des Autismus  gleich, eine Krankheit mit dem der Teenager im Voraus schon diagnostiziert wurde. Danach diagnostizierte man ihn mit der Borderlinestörung (BPD) statt Schizophrenie aufgrund ihrer ähnlichen Symptome. 
+Lebendige Clownsgestalten, Erscheinungen von Menschen kleiner Grösse und Tiere in der Alltagsumgebung: Halluzinationen kennzeichnen und begleiten Schizophrene Menschen regelmässig in ihrem Leben. "Das Buch "Maze Runner", das ich damals gelesen habe, beeinflusste und verstärkte meine Symptome stark.“ erzählt der Teenager.  Die Stimmen die Luca  hörte, unterschieden sich in ihrer Bedrohlichkeit. Tatsächlich konnten sie beunruhigender werden und den Träger zu eigenwilligen Handlungen anstiften. 
+
+\    Obwohl Luca’s Symptome sich in seinen früheren Jahren äusserten, wurden sie bei therapeutischen Besuchen vernachlässigt und nicht ernstgenommen. Man sah die Symptome als die des Autismus  gleich, eine Krankheit mit dem der Teenager im Voraus schon diagnostiziert wurde. Danach diagnostizierte man ihn mit der Borderlinestörung (BPD) statt Schizophrenie aufgrund ihrer ähnlichen Symptome. 
       Im Verlauf der Zeit verstärkten sich die Symptome und somit auch das Bewusstsein der Existenz der Schizophrenie. "Jetzt besuche ich eine neue Therapeutin, die mir bezüglich der Stimmen unterstützt ", erwähnt Luca Fischer und bestätigt: "In den nächsten Wochen werde ich ebenfalls Medikamente bekommen die Nebenwirkungen haben können."
-
-
 
 ### Herausforderungen
 
@@ -114,15 +98,14 @@ Die Therapie ist wohl-benötigt und den Jugendlichen im nicht-stressfreien Allta
 Soziale Interaktionen mit Mitmenschen und in Gruppen bedeuten eine grössere Aufwand und die Integrierung in der Gesellschaft kann im Gesamten schwerfallen. Das Leben einer schizophrenen Person ist dadurch stärker eingeschränkt in existenzielle Bedürfnisse und Anforderungen – Eine geeignete Arbeitsstelle zu finden, sich anzufreunden, die Möglichkeit für eine/n Partner/In oder wünschenswerte Freizeitaktivitäten nachzugehen. 
       Luca Fischer weiss von seiner Erfahrung, dass er Medien und Filme mit übernatürlichen Elementen oder komplexen Themen vermeiden soll.
 
-
-
 ### Das Prisma des Mitgefühls
 
 Die öffentliche Wahrnehmung der Schizophrenie ist oft von falschen Vorstellungen geprägt, die durch Medien und den alltäglichen Gebrauch stigmatisierender Begriffe verstärkt werden. Oft wird das Bild von Schizophrenie-Betroffenen als äußerst bedrohlich und als eine Gefahr für sich und die Umwelt inszeniert. Diese Vorurteile führen zu Diskriminierung und einer abweisenden Haltung gegenüber Betroffenen. 
 “Ja, das Bild von Schizophrenie ist in der Öffentlichkeit sehr stark und falsch geprägt - durch Medien wie Filme, aber auch Bücher. Beleidigungen wie «Schizo» werden im Alltag oft scherzhaft verwendet, wie ihr sie wahrscheinlich auch schon gehört habt”, meint auch Luca Fischer.
 Die Schizophrenie ist eine sehr vielseitige Krankheit mit Symptomen, die nicht zu Stereotypen reduziert werden können. Jugendliche Betroffene seien eingeschränkt in ihrem Alltagsleben und fühlen sich oft missverstanden durch die Stereotypen, sagt Luca. 
 Die Jugendzeit von Schizophrenie-Erkrankten ist eine Zeit der Herausforderungen, aber auch der Hoffnung auf Verständnis und Unterstützung. Durch Aufklärung und Sensibilisierung können wir dazu beitragen, ein unterstützendes Umfeld für Betroffene zu schaffen und Vorurteile abzubauen 
-     «Was wünschen Sie sich als betroffene Person von dieser Reportage?», fragten wir Herr Fischer. 
+
+\    «Was wünschen Sie sich als betroffene Person von dieser Reportage?», fragten wir Herr Fischer. 
 «Das möglichst viele Personen eure Reportage lesen und dies eine aufklärende Wirkung auf LeserInnen hat. Ich hoffe, dass sie ein neues Bild von Menschen betroffen mit Schizophrenie haben und keine negativen Vorurteile fällen.» antwortete er, hoffend auf einen Wechsel den ihm endlich erlaubte, seinen Zustand nicht mehr verbergen zu müssen. Denn jeder Mensch verdient es, mit Respekt und Verständnis behandelt zu werden. 
 
 ![Garten der Soteria](spteria-1-.jpg)
