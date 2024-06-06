@@ -72,7 +72,7 @@ Zur Abschwächung der akuten Phase stellt man den Bewohnern kleine alltägliche 
 
 Das Gebiet der Schizophrenie ist noch lange nicht gänzlich erforscht und einiges ist noch unbekannt. Viele Psychologen oder Ärzte beziehen sich auf ein psychosoziales Modell, darunter auch 	Daniel Eichert. Das Modell sagt aus, dass im Zusammenhang mit mehreren Faktoren, die unter gemeinsamen Zusammenspiel eine erhöhte Möglichkeit einer schizophrenen Reaktion auslösen können. Laut Daniel Eichert können Symptome auf eine genetische Vererbung als biologische Faktoren, Stress und traumatische negative Erlebnisse die als Psychosoziale Faktoren bezeichnet werden oder Drogenkonsum, vor Allem Cannabiskonsum, zurückführen.                                                    Jedoch ist die Ursache der Entstehung einer Schizophrenie nicht immer bekannt. 
 
-\    Wenn ein Elternteil schon eine psychische Erkrankung hat, ist eine mögliche Erkrankung des Kindes grösser als bei einem nichtbetroffenen Familienstamm. Bei etwa zwölf von hundert Kindern deren Eltern an Schizophrenie betroffen sind, treten im späteren Alter tatsächlich Schizophrenie auf.
+Wenn ein Elternteil schon eine psychische Erkrankung hat, ist eine mögliche Erkrankung des Kindes grösser als bei einem nichtbetroffenen Familienstamm. Bei etwa zwölf von hundert Kindern deren Eltern an Schizophrenie betroffen sind, treten im späteren Alter tatsächlich Schizophrenie auf.
 
 ### Psychosoziale Faktoren
 
@@ -92,7 +92,7 @@ Bei einer	psychotherapeutischen Behandlung, welche die soziale Kompetenz trainie
 Für einen Einblick in das Leben einer jugendlichen Schizophrenie-betroffenen Person, führten wir ein Interview mit dem Teenager Luca Fischer, der uns genaueres erzählte, über seinen persönlichen Krankheitsverlauf. 
 Lebendige Clownsgestalten, Erscheinungen von Menschen kleiner Grösse und Tiere in der Alltagsumgebung: Halluzinationen kennzeichnen und begleiten Schizophrene Menschen regelmässig in ihrem Leben. "Das Buch "Maze Runner", das ich damals gelesen habe, beeinflusste und verstärkte meine Symptome stark.“ erzählt der Teenager.  Die Stimmen die Luca  hörte, unterschieden sich in ihrer Bedrohlichkeit. Tatsächlich konnten sie beunruhigender werden und den Träger zu eigenwilligen Handlungen anstiften. 
 
-\    Obwohl Luca’s Symptome sich in seinen früheren Jahren äusserten, wurden sie bei therapeutischen Besuchen vernachlässigt und nicht ernstgenommen. Man sah die Symptome als die des Autismus  gleich, eine Krankheit mit dem der Teenager im Voraus schon diagnostiziert wurde. Danach diagnostizierte man ihn mit der Borderlinestörung (BPD) statt Schizophrenie aufgrund ihrer ähnlichen Symptome. 
+Obwohl Luca’s Symptome sich in seinen früheren Jahren äusserten, wurden sie bei therapeutischen Besuchen vernachlässigt und nicht ernstgenommen. Man sah die Symptome als die des Autismus  gleich, eine Krankheit mit dem der Teenager im Voraus schon diagnostiziert wurde. Danach diagnostizierte man ihn mit der Borderlinestörung (BPD) statt Schizophrenie aufgrund ihrer ähnlichen Symptome. 
       Im Verlauf der Zeit verstärkten sich die Symptome und somit auch das Bewusstsein der Existenz der Schizophrenie. "Jetzt besuche ich eine neue Therapeutin, die mir bezüglich der Stimmen unterstützt ", erwähnt Luca Fischer und bestätigt: "In den nächsten Wochen werde ich ebenfalls Medikamente bekommen die Nebenwirkungen haben können."
 
 ### Herausforderungen
@@ -109,7 +109,7 @@ Die öffentliche Wahrnehmung der Schizophrenie ist oft von falschen Vorstellunge
 Die Schizophrenie ist eine sehr vielseitige Krankheit mit Symptomen, die nicht zu Stereotypen reduziert werden können. Jugendliche Betroffene seien eingeschränkt in ihrem Alltagsleben und fühlen sich oft missverstanden durch die Stereotypen, sagt Luca. 
 Die Jugendzeit von Schizophrenie-Erkrankten ist eine Zeit der Herausforderungen, aber auch der Hoffnung auf Verständnis und Unterstützung. Durch Aufklärung und Sensibilisierung können wir dazu beitragen, ein unterstützendes Umfeld für Betroffene zu schaffen und Vorurteile abzubauen 
 
-\    «Was wünschen Sie sich als betroffene Person von dieser Reportage?», fragten wir Herr Fischer. 
+«Was wünschen Sie sich als betroffene Person von dieser Reportage?», fragten wir Herr Fischer. 
 «Das möglichst viele Personen eure Reportage lesen und dies eine aufklärende Wirkung auf LeserInnen hat. Ich hoffe, dass sie ein neues Bild von Menschen betroffen mit Schizophrenie haben und keine negativen Vorurteile fällen.» antwortete er, hoffend auf einen Wechsel den ihm endlich erlaubte, seinen Zustand nicht mehr verbergen zu müssen. Denn jeder Mensch verdient es, mit Respekt und Verständnis behandelt zu werden. 
 
 ![Garten der Soteria](spteria-1-.jpg)
